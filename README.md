@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 Master of IT graduate specializing in **deep learning** and **computer vision**. I build production-ready AI systems that optimize workflows and enhance decision-making. From cutting video processing time by 87% to deploying real-time emotion recognition apps, I transform complex problems into scalable solutions.
 
@@ -35,7 +35,7 @@ class MLEngineer:
 
 ---
 
-## 🛠️ Skills Matrix
+##  Skills Matrix
 
 ### **Core ML & DL**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -66,13 +66,13 @@ class MLEngineer:
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎬 AI Content Detection Pipeline
+###  AI Content Detection Pipeline
 **Engineered end-to-end ML pipeline processing 200K+ videos**
 
 - Cut preprocessing time by **87%** (55hrs → 7hrs)
@@ -89,7 +89,7 @@ class MLEngineer:
 </td>
 <td width="50%">
 
-### 😊 Real-Time Emotion Recognition
+###  Real-Time Emotion Recognition
 **Deployed production ML app with 22% lower latency**
 
 - 7% accuracy boost through hyperparameter tuning
@@ -110,7 +110,7 @@ class MLEngineer:
 <td width="50%">
 
 
-### 📊 Playstore Analytics Dashboard
+###  Playstore Analytics Dashboard
 **Interactive Power BI dashboard for app engagement KPIs**
 
 - DAX-driven data models
@@ -129,7 +129,7 @@ class MLEngineer:
 
 ---
 
-## 🎓 Certifications & Education
+##  Certifications & Education
 
 🎓 **Master of Information Technology** - *Distinction (GPA: 6.17)*  
 James Cook University Singapore
@@ -143,7 +143,7 @@ University of Greenwich
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Project Management & Mobile App Design Intern** @ Docentron Pte. Ltd.  
 *Apr 2025 - Jun 2025 | Singapore*
@@ -154,7 +154,7 @@ University of Greenwich
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -170,6 +170,6 @@ I'm always open to discussing **ML engineering opportunities**, **research colla
 
 <div align="center">
 
-### 💡 *"Transforming complex data into actionable insights"*
+###  *"Transforming complex data into actionable insights"*
 
 </div>
