@@ -137,6 +137,7 @@ James Cook University Singapore
 🎓 **BSc Computer Science** - *First Class Honours (GPA: 4.0)*  
 University of Greenwich
 
+📜 **Frontier Tech Leaders Programme – Agentic AI Training** - United Nations Development Programme (UNDP)  
 📜 **Neural Networks and Deep Learning** - DeepLearning.AI  
 📜 **Google Project Management Specialization** - Google
 
