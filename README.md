@@ -124,9 +124,7 @@ class MLEngineer:
 [📂 View Repository →](https://github.com/htet-khaing-win/LangChain-Math-Agent)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 
