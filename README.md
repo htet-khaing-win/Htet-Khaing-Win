@@ -109,6 +109,26 @@ class MLEngineer:
 <tr>
 <td width="50%">
 
+###  LangChain-Math-Agent
+**ReAct agent designed to eliminate LLM hallucinations through deterministic tool orchestration**
+
+- ReAct Agent Architecture
+- Deterministic Math Tools
+- External Knowledge Retrieval
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Wikipedia](https://img.shields.io/badge/-Wikipedia_API-000000?style=flat-square&logo=wikipedia&logoColor=white)
+
+[📂 View Repository →](https://github.com/htet-khaing-win/LangChain-Math-Agent)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 
 ###  Playstore Analytics Dashboard
 **Interactive Power BI dashboard for app engagement KPIs**
